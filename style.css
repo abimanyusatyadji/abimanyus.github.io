@@ -1,0 +1,15 @@
+body {
+    position: relative;
+}
+.jumbotron {
+    background-color: #e2edff;
+    padding-top: 5rem;
+}
+.projects {
+    background-color: #e2edff;
+    scroll-margin-top: 50px;
+}
+#about,
+#contact {
+    scroll-margin-top: 50px;
+}
